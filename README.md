@@ -23,7 +23,7 @@ This assignment was to edit the HTML tags with semantic tags to make it more acc
 
 This simple HTML file uses best practices for accessibility in programming.
 
-By clicking the elements in the navigation bar, the page will take user to specific elements.
+
 
 ## Credits
 
