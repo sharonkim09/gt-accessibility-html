@@ -2,6 +2,8 @@
 
 ## Description
 This assignment was to edit the HTML tags with semantic tags to make it more accessible. Altered CSS selectors to be more efficient.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 
 * [Installation](#installation)
