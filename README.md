@@ -1,26 +1,29 @@
-# gt-accessibility-html
+# GT-Accessibility-HW
 
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-## Table of Contents (Optional)
-
-
+## Description
+This assignment was to edit the HTML tags with semantic tags to make it more accessible. Altered CSS selectors to be more efficient.
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [MIT License](#mit_license)
+* [License](#license)
 
 ## Installation
 
-Clone the repo, and run the index.html file in browser.
+1. Clone the repo.
+2. Open index.html in default browser.
 
 
 ## Usage 
+[Deployed Portfolio Site](https://sharonkim09.github.io/gt-accessibility-html/)
+
+![Home](./assets/images/title-page.png)
+
 
 This simple HTML file uses best practices for accessibility in programming.
-![Test ReadMe Application](./TESTREADME.png)
 
+By clicking the elements in the navigation bar, the page will take user to specific elements.
 
 ## Credits
 
@@ -28,8 +31,8 @@ This was a solo project completed as homework for the Georgia Tech, FullStack Fl
 
 
 
-
-## MIT License
+##  License
+MIT License
 
 Copyright (c) [2020] [Sharon Kim]
 
